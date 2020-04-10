@@ -5,4 +5,4 @@ slidenum: 21
 ---
 # Fair ML tutorial
 ## Optional, For bonus points
-in pairs, write a more detailed tutorial that shows not only what the code does, but helps the reader understand the technique and when it will/willnot help.
+Write a more tutorial for one of the techniques in the IBMF360 package that shows not only what the code does, but helps the reader understand the technique and when it will/willnot help.
